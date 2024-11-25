@@ -42,7 +42,7 @@ class Settings {
 		placeholder: '§6Open!'
 	})
 	OpenWebsite() {
-		java.awt.Desktop.getDesktop().browse(new java.net.URI("https://www.scratch.mit.edu"));
+		java.awt.Desktop.getDesktop().browse(new java.net.URI("https://circuit-board.github.io/"));
 	}
 	constructor() {
 		this.initialize(this);
