@@ -1,0 +1,9 @@
+
+[general]
+
+	[general.enable]
+		"§6enabled" = true
+
+	[general.category]
+		text = ""
+

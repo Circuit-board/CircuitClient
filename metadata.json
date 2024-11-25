@@ -1,0 +1,8 @@
+{
+	"name": "Circuit Client",
+	"description": "Circuit Boards On Top",
+	"creator": "Circuit_Board",
+	"version": "2.7.0",
+	"entry": "index.js",
+	"requires": ["PromiseV2", "BloomCore", "fparser", "requestV2", "Vigilance", "PogData", "RenderLib"]
+}
